@@ -21,5 +21,11 @@
     }
   ],
   "description": "သီပေါမြို့တွင်း အစားအသောက်နှင့် ပါဆယ်ပို့ဆောင်ရေး ဝန်ဆောင်မှု",
-  "id": "com.thipaw.delivery"
+  "id": "com.thipaw.delivery",
+  "categories": [
+    "food",
+    "shopping",
+    "utilities"
+  ],
+  "lang": "my"
 }
