@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Thipaw Delivery",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Thipaw Delivery",
+  "start_url": "/",
+  "theme_color": "#FF5722",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/85NTCd49/1794811370987.jpg",
+      "type": "image/jpeg",
+      "sizes": "640x640"
+    }
+  ],
+  "description": "သီပေါမြို့တွင်း အစားအသောက်နှင့် ပါဆယ်ပို့ဆောင်ရေး ဝန်ဆောင်မှု",
+  "id": "com.thipaw.delivery"
+}
